@@ -14,4 +14,4 @@ Thumbs.db
 
 # Ignore JARs and Zipkin
 *.jar
-zipkin-server-*.jar
+zipkin-server-3.5.0-exec.jar
