@@ -1,0 +1,17 @@
+# Ignore build and IDE folders
+/target/
+/out/
+/bin/
+*.iml
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore JARs and Zipkin
+*.jar
+zipkin-server-*.jar
